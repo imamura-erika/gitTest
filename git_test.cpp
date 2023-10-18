@@ -8,6 +8,8 @@ int main()
     std::cout << "Hello Git Hub!\n";
     std::cout << "yaho\n";
     std::cout << "pull request";
+  
+    std::cout << "プルしてください～";
     std::cout << "プルしません";
 }
 
