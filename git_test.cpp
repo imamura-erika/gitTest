@@ -6,11 +6,8 @@
 int main()
 {
     std::cout << "Hello Git Hub!\n";
-    std::cout << "yaho\n";
-    std::cout << "pull request";
-  
-    std::cout << "プルしてください～";
-    std::cout << "プルしません";
+    
+     std::cout << "Clone changed\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
